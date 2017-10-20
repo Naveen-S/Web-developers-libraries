@@ -45,6 +45,8 @@ Hi these are list of libraries that I use/been using throughout my Web developme
 	Fuss no more.
 	
 	http://fontawesome.io/icons/
+	
+	
 	http://ionicons.com/
 
 2. Fonts 
