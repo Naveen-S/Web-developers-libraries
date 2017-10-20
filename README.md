@@ -64,3 +64,13 @@ Hi these are list of libraries that I use/been using throughout my Web developme
 	You are not good with photoshop or you don't have enough time to get a logo done. Don't sweat here is the site that does that job for you for free.
 	
 	https://www.freelogoservices.com
+	
+
+5. Optimize Images
+	Who doesn't love fast and smooth applications? But the trick to have fast, light and smooth application is small application size. Small is beautiful! But how to achieve that? worry not, compress all your images with optimizilla.
+	
+	http://optimizilla.com/
+	
+	And all the css files using.
+
+	https://cssminifier.com/
