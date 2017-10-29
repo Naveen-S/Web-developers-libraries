@@ -76,3 +76,9 @@ Hi these are list of libraries that I use/been using throughout my Web developme
 	And all the css files using.
 
 	https://cssminifier.com/
+
+6. Beautiful linear Gradients
+	Everyone are not awesome designers, you don't have to be. Be a good stealer!
+	
+	https://uigradients.com
+	
